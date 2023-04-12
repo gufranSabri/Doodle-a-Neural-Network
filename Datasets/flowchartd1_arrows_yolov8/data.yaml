@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['arrow_line_down', 'arrow_line_left', 'arrow_line_right', 'arrow_line_up']
+
+roboflow:
+  workspace: kemras
+  project: arrow-detection-w0acy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kemras/arrow-detection-w0acy/dataset/1
