@@ -3,7 +3,7 @@
 I built a tool that allows users to draw a sketch of a neural network and convert it to code!
 
 ### Approach<br>
-![X](DemoImages/1.jpg)
+![X](DemoImages/1.png)
 <br>
 
 ### Take a picture of your doodle<br>
@@ -11,9 +11,9 @@ I built a tool that allows users to draw a sketch of a neural network and conver
 <br>
 
 ### Computer Vision at work<br>
-![X](DemoImages/4.jpg)
+![X](DemoImages/4.png)
 <br>
 
 ### Website<br>
-![X](DemoImages/2.jpg)
+![X](DemoImages/2.png)
 <br>
